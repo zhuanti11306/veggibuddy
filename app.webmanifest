@@ -1,0 +1,20 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest",
+
+    "start_url": "/",
+
+    "background_color": "black",
+
+    "icons": [
+        {
+            "sizes": "any",
+            "src": "/vite.svg",
+            "type": "image/svg+xml"
+        }
+    ],
+
+    "orientation": "portrait-primary",
+    "display": "standalone",
+    "lang": "zh-tw",
+    "short_name": "菜菜小伙伴"
+}
