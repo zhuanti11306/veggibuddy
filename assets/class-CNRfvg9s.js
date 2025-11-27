@@ -1,1 +1,0 @@
-import{aD as g}from"./GLTFLoader-CQaeW04e.js";function b(r,m,f,N,a,i){var t=r.__className;if(t!==f||t===void 0){var o=g(f,N,i);o==null?r.removeAttribute("class"):r.className=o,r.__className=f}else if(i&&a!==i)for(var l in i){var u=!!i[l];(a==null||u!==!!a[l])&&r.classList.toggle(l,u)}return i}export{b as s};
