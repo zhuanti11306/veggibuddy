@@ -7,7 +7,7 @@
     "start_url": "/",
 
     "orientation": "portrait-primary",
-    "display": "fullscreen",
+    "display": "standalone",
 
     "background_color": "black",
     "theme_color": "black",
