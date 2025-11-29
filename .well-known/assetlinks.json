@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "dev.pages.veggibuddy.twa",
+            "sha256_cert_fingerprints": [
+                "10:D2:6E:BA:07:B3:A0:32:A3:9B:29:E0:7A:8C:B4:B3:74:D9:7C:52:FE:43:C5:A5:0E:26:EC:8F:8C:55:A4:FC"
+            ]
+        }
+    }
+]
