@@ -1,0 +1,1 @@
+import{L as o,S as s}from"./settings.svelte-5XoKg5x_.js";import{a as i}from"./index-CmDaI5qH.js";import"./page-DAZzhzK-.js";function r(){const e=o(s.hideNSeekGame);i(e,"/game/hide-and-seek")}export{r as g};
